@@ -111,3 +111,30 @@ body.theme-light .theme-toggle-button {
 .theme-toggle-button:hover {
   transform: scale(1.1);
 }
+
+body.theme-dark .swal-modal {
+  background-color: white;
+  border: 5px solid orange;
+}
+
+body.theme-light .swal-modal {
+  background-color: rgb(213, 7, 162);
+  border: 3px solid white;
+}
+
+.swal-text {
+  background-color: #FEFAE3;
+  padding: 17px;
+  border: 1px solid #F0E1A1;
+  display: block;
+  margin: 22px;
+  text-align: center;
+  color: #131313;
+  font-size: 18px;
+}
+
+
+body.theme-dark .swal-title {
+  font-size: 24px;
+  color: #131313;
+}

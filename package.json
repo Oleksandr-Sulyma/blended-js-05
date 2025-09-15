@@ -17,6 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "modern-normalize": "^3.0.1",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.23.0",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
